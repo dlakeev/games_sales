@@ -1,0 +1,1 @@
+This dataset, collected from *vgchartz.com*, tracks the changing dynamics of video game platforms and genres around the world to better understand the gaming industry and trends to help game developers succeed.
